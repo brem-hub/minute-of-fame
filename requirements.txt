@@ -15,7 +15,7 @@ chardet==3.0.4
 constantly==15.1.0
 cryptography==2.8
 daphne==2.4.1
-Django==3.0.4
+Django==3.1.6
 django-redis==4.11.0
 django-webpack-loader==0.7.0
 hiredis==1.0.1
